@@ -1,0 +1,10 @@
+{"data": [{"col": "hours_per_week", "center": 89, "width": 6, "col_num": 11}]}
+{"data": [{"col": "native_country", "center": 24, "width": 0, "col_num": 12}]}
+{"data": [{"col": "age", "center": 58, "width": 15, "col_num": 0}, {"col": "education_num", "center": 11, "width": 0, "col_num": 3}]}
+{"data": [{"col": "race", "center": 1, "width": 0, "col_num": 7}, {"col": "workclass", "center": 0, "width": 0, "col_num": 1}]}
+{"data": [{"col": "sex", "center": 1, "width": 0, "col_num": 8}, {"col": "education_num", "center": 4, "width": 0, "col_num": 3}, {"col": "workclass", "center": 6, "width": 0, "col_num": 1}]}
+{"data": [{"col": "education_num", "center": 6, "width": 0, "col_num": 3}, {"col": "age", "center": 48, "width": 5, "col_num": 0}, {"col": "relationship", "center": 0, "width": 0, "col_num": 6}]}
+{"data": [{"col": "occupation", "center": 0, "width": 0, "col_num": 5}, {"col": "education_num", "center": 12, "width": 0, "col_num": 3}, {"col": "sex", "center": 0, "width": 0, "col_num": 8}, {"col": "race", "center": 4, "width": 0, "col_num": 7}]}
+{"data": [{"col": "education", "center": 11, "width": 0, "col_num": 2}, {"col": "hours_per_week", "center": 34, "width": 23, "col_num": 11}, {"col": "sex", "center": 1, "width": 0, "col_num": 8}, {"col": "occupation", "center": 10, "width": 0, "col_num": 5}]}
+{"data": [{"col": "workclass", "center": 2, "width": 0, "col_num": 1}, {"col": "marital_status", "center": 2, "width": 0, "col_num": 4}, {"col": "occupation", "center": 10, "width": 0, "col_num": 5}, {"col": "hours_per_week", "center": 57, "width": 27, "col_num": 11}, {"col": "education_num", "center": 13, "width": 0, "col_num": 3}]}
+{"data": [{"col": "occupation", "center": 4, "width": 0, "col_num": 5}, {"col": "age", "center": 56, "width": 34, "col_num": 0}, {"col": "sex", "center": 1, "width": 0, "col_num": 8}, {"col": "hours_per_week", "center": 33, "width": 17, "col_num": 11}, {"col": "relationship", "center": 1, "width": 0, "col_num": 6}]}
