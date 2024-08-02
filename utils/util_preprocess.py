@@ -299,26 +299,6 @@ def one_pass_max_uncertainty(df_miss, df_arr, budget, query):
     
     return df_miss_copy
 
-    
-# # get incomplete table in numerical form
-# def get_incomplete_matrix(df_complete, mask):
-#     x_miss = np.copy(df_complete.to_numpy())
-#     x_miss = x_miss.astype('float32')
-#     mask = mask.numpy() >0.5
-#     x_miss[mask] = np.nan
-
-#     df_mask = pd.DataFrame(1-mask).astype('int64').replace(0, np.nan)
-#     missing_indexes = np.where(np.asanyarray(np.isnan(df_mask)))
-
-#     return x_miss, missing_indexes
-
-# def get_schema(X_keys):
-#     length = len(X_keys)
-#     attrs = ['categorical']*length
-#     X_schema = pd.DataFrame({'attribute':X_keys, 'type':attrs})
-#
-#     return X_schema
-
 
 def formalize_imputed_df(df_imputed, mapping, keys):
     for i, info in enumerate(mapping):
